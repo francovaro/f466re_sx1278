@@ -26,4 +26,16 @@
 		<nature>fr.ac6.mcu.ide.core.MCUProjectNature</nature>
 		<nature>fr.ac6.mcu.ide.core.MCUSingleCoreProjectNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>driver_inc</name>
+			<type>2</type>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/sx1278_stm32_lib/driver_inc</locationURI>
+		</link>
+		<link>
+			<name>src/driver_src</name>
+			<type>2</type>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/sx1278_stm32_lib/driver_src</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>

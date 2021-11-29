@@ -1,0 +1,8 @@
+"src/delay.o"
+"src/main.o"
+"src/spi.o"
+"src/syscalls.o"
+"src/system_stm32f4xx.o"
+"src/driver_src/sx1278.o"
+"src/driver_src/sx1278_pin.o"
+"startup/startup_stm32.o"
